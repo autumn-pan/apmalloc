@@ -1,0 +1,1 @@
+The Buddy1 allocator is a provisional dynamic memory allocator I made for the initial versions of ALBATROSS RTOS. As of September, 2025, it is still in use. It experiences high internal memory fragmentation (can be north of 99%). and is not optimal.
