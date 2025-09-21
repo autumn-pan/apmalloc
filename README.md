@@ -1,0 +1,1 @@
+APMalloc is a compilation of my various dynamic memory allocator implementations.
